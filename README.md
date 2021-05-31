@@ -26,6 +26,6 @@ A aplicação foi testada durante a fase final da dissertação e publicada na P
 * Algoritmos de ordenação.
 * Navegação e rotas.
 
-## Atualizações futuras
+## Atualização futura
 
 Pretendo refatorar todo o código, componentizando os elementos, reduzindos redundâncias e atualizando os packages. O código atual não é agradável/vistoso pois foi a minha aplicação em Flutter e por isso tenho um carinho maior por ela, logo pretendo melhorá-la em breve.
