@@ -5,15 +5,19 @@ Este humilde aplicativo foi desenvolvido durante a realização do meu mestrado 
 
 O App é, basicamente, um CRUD simples, mas que possui interfaces limpas e didáticas e, além disso, o código apresenta a minha evolução durante os estudos em Flutter, uma vez que me propus a aprender do zero o Dart/Flutter e é por esse motivo que me orgulho muito deste projeto. 
 
+***
+#### Download na Google Play Store
 A aplicação foi testada durante a fase final da dissertação e publicada na Play Store.
-
-## Download na Google Play Store
 
  <p align="center">
  <img  width="300" height="625" src="assets/to_readme/presentation.gif">
  <p/>
- 
-[Download Prisma Study](https://play.google.com/store/apps/details?id=br.com.adelmoaquino.prisma_study)
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=br.com.adelmoaquino.prisma_study">Download Prisma Study</a>
+</p>
+
+
 
 ## Aprendizado
 * Firebase Auth.
